@@ -55,6 +55,7 @@ src/
 ├── services/
 │   └── geminiService.ts   // The bridge to the Gemini 3 Pro Reasoning Engine
 └── types.ts               // Strict typing for nutritional payloads
+
 🔧 Installation & Setup
 Clone the repo: git clone https://github.com/yourusername/stomach-strategist.git
 
