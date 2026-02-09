@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Stomach Strategist",
+  "description": "An AI-powered nutritional assistant that analyzes food photos to optimize your eating strategy based on your health goals and hunger levels.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
